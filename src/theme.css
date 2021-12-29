@@ -1,29 +1,27 @@
-.body {
-  width: 100%;
-  border-color: greenyellow;
-  border-style: solid;
-}
-.body-head {
-  border-color: turquoise;
-  border-style: solid;
-  height: 10vh;
-}
-.body-head-nav {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  background-color: #c4c4c4;
-  margin-left: 10vh;
-  margin-right: 40vh;
-  margin-top: 4vh;
-}
-
 .body-middle {
-  min-height: 80vh;
+  border-color: #c4c4c4;
+  border-style: solid;
+  min-height: 90vh;
   text-align: center;
 }
-.body-footer {
-  border-color: black;
+.body-middle-content {
+  border-color: blanchedalmond;
   border-style: solid;
-  min-height: 10vh;
+  min-height: 80vh;
+}
+
+.footer-logo {
+  margin-top: 15%;
+  margin-bottom: 15%;
+  font-size: xx-large;
+}
+.footer-links {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.footer-about {
+  margin-top: 10%;
+}
+.footer {
+  background-color: #212121;
 }
