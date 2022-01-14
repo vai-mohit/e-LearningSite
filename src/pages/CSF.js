@@ -1,3 +1,15 @@
+import CSFpic from "./CSF.jpg";
+import { Image } from "react-bootstrap";
 export default function CSF() {
-  return <div>CSF</div>;
+  return(
+    <div><div className="Image">
+    <Image src={CSFpic} fluid />
+    <div>Computer Security, also called cybersecurity, the protection of computer systems and information from harm, theft, and unauthorized use. Computer hardware is typically protected by the same means used to protect other valuable or sensitive equipment—namely, serial numbers, doors and locks, and alarms. The protection of information and system access, on the other hand, is achieved through other tactics, some of them quite complex.<br/> The security precautions related to computer information and access address four major threats:<br/> (1) theft of data, such as that of military secrets from government computers;<br/> (2) vandalism, including the destruction of data by a computer virus;<br/> (3) fraud, such as employees at a bank channeling funds into their own accounts; and <br/>(4) invasion of privacy, such as the illegal accessing of protected personal financial or medical data from a large database. <br/>The most basic means of protecting a computer system against theft, vandalism, invasion of privacy, and other irresponsible behaviours is to electronically track and record the access to, and activities of, the various users of a computer system. This is commonly done by assigning an individual password to each person who has access to a system. The computer system itself can then automatically track the use of these passwords, recording such data as which files were accessed under particular passwords and so on. Another security measure is to store a system’s data on a separate device or medium that is normally inaccessible through the computer system. Finally, data is often encrypted so that it can be deciphered only by holders of a singular encryption key.</div>
+    <div><h1>Security and Protection system</h1></div><div>Security and Protection System, any of various means or devices designed to guard persons and property against a broad range of hazards, including crime, fire, accidents, espionage, sabotage, subversion, and attack.
+
+Most security and protection systems emphasize certain hazards more than others. In a retail store, for example, the principal security concerns are shoplifting and employee dishonesty (e.g., pilferage, embezzlement, and fraud). A typical set of categories to be protected includes the personal safety of people in the organization, such as employees, customers, or residents; tangible property, such as the plant, equipment, finished products, cash, and securities; and intangible property, such as highly classified national-security information or “proprietary” information (e.g., trade secrets) of private organizations. An important distinction between a security and protection system and public services such as police and fire departments is that the former employs means that emphasize passive and preventive measures.
+
+Security systems are found in a wide variety of organizations, ranging from government agencies and industrial plants to apartment buildings and schools. Sufficiently large organizations may have their own proprietary security systems or may purchase security services by contract from specialized security organizations.</div>
+  </div></div>
+  );
 }
