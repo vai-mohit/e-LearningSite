@@ -7,8 +7,7 @@ It is an e-learning platform that offers the ability to sign up for any course, 
 ## Quick Start
 
 ```bash
-# clone repository
-https://github.com/savajapurva/E-Learning-MERN.git
+
 
 # Install dependencies
 cd E-Learning-MERN && npm install
