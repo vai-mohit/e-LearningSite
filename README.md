@@ -205,3 +205,9 @@ ReactJS forms
 ## License
 
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE.md file for details
+
+E-learning methods and technology are important both for educating students and for the professional development of employees in the workforce.
+
+In the mid-2000s, the American Society for Training and Development (ASTD) estimated that 75% of the U.S. workforce would need retraining within the coming five years in order to keep pace with industry needs and increasing global competition. Hewlett-Packard estimated that the half-life of a bachelor's degree in engineering could be as short as 18 months.
+
+Today, the need for employees to keep pace with an increasingly rapid evolution of technology has only grown. For example, expert coders, hardware developers and online security professionals alike anticipate the advent of quantum computing to create a massive shift in the way modern businesses operate. This strongly necessitates new workforce training and education as well as new methods of delivering it that allow increased adaptability in the rapidly changing environment.
