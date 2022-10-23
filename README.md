@@ -1,8 +1,16 @@
-# Getting Started with Create React App
+# E-Learning Site
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About the Project 
 It is an e-learning platform that offers the ability to sign up for any course, watch the associated videos, and access many additional services including an admin panel and instructor-related tools.
+
+## Need for E-Learning Site
+E-learning methods and technology are important both for educating students and for the professional development of employees in the workforce.
+
+In the mid-2000s, the American Society for Training and Development (ASTD) estimated that 75% of the U.S. workforce would need retraining within the coming five years in order to keep pace with industry needs and increasing global competition. Hewlett-Packard estimated that the half-life of a bachelor's degree in engineering could be as short as 18 months.
+
+Today, the need for employees to keep pace with an increasingly rapid evolution of technology has only grown. For example, expert coders, hardware developers and online security professionals alike anticipate the advent of quantum computing to create a massive shift in the way modern businesses operate. This strongly necessitates new workforce training and education as well as new methods of delivering it that allow increased adaptability in the rapidly changing environment.
 
 ## Quick Start
 
@@ -90,7 +98,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 ### Making the line of code beautiful
 Updated with clarifications & additions.ine of text in a code that is not a comment or blank line, and also header lines, in any case of the number of statements or fragments of statements on the line. LOC clearly consists of all lines containing the declaration.
 
-###next Step
+### Next Step
 Research has shown a rough correlation between LOC and the overall cost and length of developing a project/ product in Software Development, and between LOC and the number of defects. This means the 
 
 ### Analyzing the Bundle Size
@@ -178,7 +186,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 * kritarthsingh Kritarth Singh
 
 
-
+## About React
 React is not a framework. It is just a library developed by Facebook to solve some problems that we were facing earlier. Learning any new framework or library is exciting but before that, we have to get the concept of that library or framework. To get the concept of React you need to know what basic things are used in React.
 
 The list of ReactJS Main Concepts are listed below:
@@ -206,8 +214,4 @@ ReactJS forms
 
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE.md file for details
 
-E-learning methods and technology are important both for educating students and for the professional development of employees in the workforce.
 
-In the mid-2000s, the American Society for Training and Development (ASTD) estimated that 75% of the U.S. workforce would need retraining within the coming five years in order to keep pace with industry needs and increasing global competition. Hewlett-Packard estimated that the half-life of a bachelor's degree in engineering could be as short as 18 months.
-
-Today, the need for employees to keep pace with an increasingly rapid evolution of technology has only grown. For example, expert coders, hardware developers and online security professionals alike anticipate the advent of quantum computing to create a massive shift in the way modern businesses operate. This strongly necessitates new workforce training and education as well as new methods of delivering it that allow increased adaptability in the rapidly changing environment.
